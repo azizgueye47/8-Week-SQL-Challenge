@@ -7,8 +7,7 @@ Il met en valeur ma capacité à relever divers défis SQL et démontre ma maît
 Un merci spécial à Data with Danny pour avoir créé ces études de cas SQL perspicaces et engageantes ! 👋🏻
 
 📚 **Table des matières**
-- [Étude de cas n°1 : Danny's Diner](lien_vers_solution_etude_de_cas_1)
-
+- [Étude de cas n°1 : Danny's Diner](https://github.com/azizgueye47/8-Week-SQL-Challenge/blob/mmaster/Etude%20de%20cas%20%231.sql)
 
 **Remarque importante concernant mes solutions**
 
